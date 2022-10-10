@@ -7,22 +7,23 @@
     <img src="https://user-images.githubusercontent.com/110150164/194601501-5b5281f8-4046-49d3-a904-ae0dbcfb0443.png" alt="Logo" width="320" height="128">
   </a>
                    
-# IBM-Project-5833-1658817449
+# IBM-Project-5917-1658819801
 
   </div> 
   
   
   
- #  Web Phishing Detection
+ # CRUDE-OIL PRICE PREDECTION 
 
-TECHNOLOGY : ADS       
-TEAM ID : PNT2022TMID46988     
+TECHNOLOGY : AI       
+TEAM ID : PNT2022TMID46996    
               
 
 # **👩‍👦TEAM MEMBERS**    
 ```html                      
-SANTHANAKUMAR          
-VASANTHAKUMAR         
-KRISHNA RAJ         
-VARATHA RAJ      
+SUVETHA M        
+SHARATHI P    
+SRINITHI C    
+SRINITHI T
+PRABHASHREE P
  
